@@ -1,5 +1,5 @@
-Package: ClassPackage
-Title: Example Package Content
+Package: BiggyDat
+Title: Making Big Data Practice Package
 Version: 0.0
 Authors: Connor Jerzak <connor.jerzak@gmail.com> [aut, cre]'
 Description: An R package designed to help people learn how to make packages in R. 

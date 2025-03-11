@@ -3,7 +3,7 @@
 ########################################################
 
 # Specify package name
-package_name <- "ClassPackage"
+package_name <- "BiggyDat"
 
 # Generate documentation
 {
