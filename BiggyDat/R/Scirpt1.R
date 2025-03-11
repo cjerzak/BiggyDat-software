@@ -1,4 +1,3 @@
-#!/usr/bin/env Rscript
 #' LinkOrgs
 #'
 #' Implements the organizational record linkage algorithms of Libgober and Jerzak (2023+).
